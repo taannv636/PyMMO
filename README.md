@@ -3,6 +3,12 @@
 
 
 
+[![License: GPL-3.0](https://img.shields.io/badge/License-GPL%203.0-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
+
+
+
+
 **_PyMMO_** is a Python framework/template of a MMO game built using **_PyGame_** on top of Python's built-in **_socket_** module. This template implements a simple MMORPG with baked in features such as:
 - **In-game chat bubbles** functionality;
 - **Action battle system** with server-side processing functionality;
